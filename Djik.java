@@ -70,3 +70,6 @@ public class Djik {
         ob1.path(graph,4);
     }
 }
+
+//learn:
+//returning array type
